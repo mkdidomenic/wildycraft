@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wildycraft",
+  "name": "WildyCraft",
+  "description": "Dope",
+  "version": "0.01",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mike and Jim"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

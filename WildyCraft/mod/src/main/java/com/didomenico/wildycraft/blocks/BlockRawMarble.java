@@ -1,0 +1,15 @@
+package com.didomenico.wildycraft.blocks;
+
+import net.minecraft.block.material.Material;
+import net.minecraft.creativetab.CreativeTabs;
+
+public class BlockRawMarble extends BaseBlock {
+
+	public BlockRawMarble() {
+		super(Material.ROCK, "BlockRawMarble");
+		this.setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+		this.setHardness(25F);
+		this.setHarvestLevel("pickaxe", 2);
+	}
+
+}

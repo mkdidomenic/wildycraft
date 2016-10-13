@@ -1,0 +1,12 @@
+[{
+  "modid": "wildycraft",
+  "name": "WildyCraft",
+  "description": "wild",
+  "version": "1.0.0.0",
+  "mcversion": "1.10.2",
+  "logoFile": "assets/wildycraft/textures/logo.png",
+  "url": "minecraftforge.net/",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["Mike and Jim"],
+  "credits": " ",
+}]

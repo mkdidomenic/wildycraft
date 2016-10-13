@@ -1,0 +1,9 @@
+package com.didomenico.wildycraft.recipes;
+
+public class ModRecipes {
+	
+	public static void init() {
+
+	}
+
+}

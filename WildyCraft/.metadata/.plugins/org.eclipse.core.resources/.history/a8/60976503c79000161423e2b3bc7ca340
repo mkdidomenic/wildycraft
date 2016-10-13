@@ -1,0 +1,10 @@
+package com.didomenico.wildycraft.items;
+
+public class ItemSoul extends BaseItem {
+
+	public ItemSoul(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.didomenico.wildycraft.blocks;
+
+import net.minecraft.block.material.Material;
+
+public class BlockRawMarble extends BaseBlock {
+
+	public BlockRawMarble(Material material, String name) {
+		super(material, name);
+		// TODO Auto-generated constructor stub
+	}
+
+}

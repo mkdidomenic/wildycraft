@@ -1,0 +1,5 @@
+package com.didomenico.wildycraft.proxy;
+
+public class ClientProxy {
+
+}
